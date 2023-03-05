@@ -22,34 +22,34 @@ edit sewabot di file settings.js line 19
 `
 // setting 
 global.firtsChat = true //send firts message to new user
-global.autoread = true // auto read message
-global.antidelete = false // anti delete
+global.autoread = false // auto read message
+global.antidelete = trus // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup
 
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
-//global.language = english // use this for English language
+//global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.botname = "jonkris-md" //namabot kalian
+global.ownername = "jks" //nama kalian
+global.myweb = "https://instagram.com/jonkristiansah.silaban" //bebas asal jan hapus
+global.youtube = "https://-" //bebas asal jan hapus
+global.myweb2 = "https://-" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
+global.premium = ['6289509158681'] //premium user
 global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62887435047326" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
@@ -57,8 +57,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.packname = '©jonkrismd ' + botname //sticker wm ubah
+global.author = 'Created By jks ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
