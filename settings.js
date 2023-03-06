@@ -23,7 +23,7 @@ edit sewabot di file settings.js line 19
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = false // auto read message
-global.antidelete = trus // anti delete
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
@@ -49,8 +49,8 @@ global.myweb2 = "https://-" //bebas
 global.email = "silabancris949@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289509158681'] //premium user
-global.owner = ["6289509158681", "62882017601499"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['62882017601499'] //premium user
+global.owner = ["62882017601499", "62882017601499"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62882017601499" // nomor wa kalian
 global.ownernomerr = "62882017601499"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/297147932_454104986596384_151141809409903820_n (1).jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
